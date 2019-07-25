@@ -1,3 +1,3 @@
 # Google-Charts
 Google Charts Example 
-![效果图][img(1.png)]
+![Image text](https://github.com/lrfalse/Google-Charts/blob/master/1.png)
